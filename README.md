@@ -12,3 +12,4 @@ Bogotá, Colombia.
 
 ### Perfil
 Tecnologo en animación 3D y estudiante de ingeniería multimedia, experiencia en graficación y programación para televisión.
+
