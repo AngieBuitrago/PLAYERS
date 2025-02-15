@@ -13,7 +13,9 @@ Bogotá, Colombia.
 ### Perfil
 Tecnologo en animación 3D y estudiante de ingeniería multimedia, experiencia en graficación y programación para televisión.
 
-![Foto Valentina Ruiz](images/INTEGRANTES/vr.png)
+
+![Foto Valentina Ruiz](images/INTEGRANTES/vr.jpg)
+
 ## Valentina Ruiz
 ### Rol en la industria
 1. Productora audiovisual.
@@ -22,9 +24,8 @@ Tecnologo en animación 3D y estudiante de ingeniería multimedia, experiencia e
 ### Ubicación
 Bogotá, Colombia.
 
-
-
-
+###
+## Angie Buitrago
 
 ### Perfil
 Tecnologa en Animación 3D y estudiante de ingeniería multimedia, experiencia en modelado 3D e illustración
