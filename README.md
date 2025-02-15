@@ -23,7 +23,7 @@ Tecnologo en animación 3D y estudiante de ingeniería multimedia, experiencia e
 Bogotá, Colombia.
 
 ### Perfil
-Tecnologo en multimedia y estudiante de ingeniería multimedia, experiencia en audiovisuales, diseño grafico y animación 2D.
+Tecnóloga en multimedia y estudiante de ingeniería multimedia, experiencia en modelado 3D e illustración
 
 ![Foto Angie Buitragp](images/INTEGRANTES/Foto_Angie.jpg)
 ## Angie Buitrago
@@ -34,5 +34,3 @@ Tecnologo en multimedia y estudiante de ingeniería multimedia, experiencia en a
 ### Ubicación
 Bogotá, Colombia.
 
-### Perfil
-Tecnóloga en multimedia y estudiante de ingeniería multimedia, experiencia en modelado 3D e illustración 
