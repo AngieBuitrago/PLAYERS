@@ -22,11 +22,17 @@ Tecnologo en animación 3D y estudiante de ingeniería multimedia, experiencia e
 ### Ubicación
 Bogotá, Colombia.
 
+
+
+
+
 ### Perfil
-Tecnóloga en multimedia y estudiante de ingeniería multimedia, experiencia en modelado 3D e illustración
+Tecnologa en Animación 3D y estudiante de ingeniería multimedia, experiencia en modelado 3D e illustración
 
 ![Foto Angie Buitragp](images/INTEGRANTES/Foto_Angie.jpg)
+
 ## Angie Buitrago
+
 ### Rol en la industria
 1. Artista de personajes
 2. Modelador 3D.
