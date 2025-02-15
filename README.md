@@ -13,3 +13,14 @@ Bogotá, Colombia.
 ### Perfil
 Tecnologo en animación 3D y estudiante de ingeniería multimedia, experiencia en graficación y programación para televisión.
 
+![Foto Valentina Ruiz](images/INTEGRANTES/vr.png)
+## Valentina Ruiz
+### Rol en la industria
+1. Productora audiovisual.
+2. Desarrolladora multimedia.
+
+### Ubicación
+Bogotá, Colombia.
+
+### Perfil
+Tecnologo en multimedia y estudiante de ingeniería multimedia, experiencia en audiovisuales, diseño grafico y animación 2D.
