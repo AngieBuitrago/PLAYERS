@@ -43,7 +43,7 @@ Bogotá, Colombia.
 
 ## Belky Giron
 
-![Foto Belky Giron]()
+![Foto Belky Giron](images/INTEGRANTES/Belky Giron.jpg)
 ### Perfil
 Estudiante de ingeniería multimedia.
 
