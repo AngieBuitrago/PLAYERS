@@ -41,3 +41,15 @@ Tecnologa en Animación 3D y estudiante de ingeniería multimedia, experiencia e
 ### Ubicación
 Bogotá, Colombia.
 
+## Belky Giron
+
+![Foto Belky Giron](images/INTEGRANTES/Belky_Giron.jpg)
+### Perfil
+Estudiante de ingeniería multimedia.
+
+### Rol en la industria
+1. Probador de juegos y control.
+2. Desarrollador de sistemas.
+
+### Ubicación
+Bogotá, Colombia.
